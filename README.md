@@ -1,6 +1,3 @@
-# ProyectoFinalReactJsNorbertoAdrianMatadamasCarmona
-Proyecto final React Js 
-
 Explicación de mi Proyecto
 
 BrowserRouter
@@ -17,3 +14,4 @@ El componente ItemListContainer utiliza useParams para obtener el parámetro de 
 
 ItemDetailContainer
 El componente ItemDetailContainer utiliza useParams para obtener el parámetro de la URL (itemId) y useEffect para cargar los detalles del ítem específico. Esto nos permite mostrar información detallada sobre un ítem individual cuando se selecciona desde la lista.
+
